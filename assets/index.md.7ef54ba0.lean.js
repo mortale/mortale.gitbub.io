@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.7c054094.js";const b='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',s={},n=o("p",null,"Wubba lubba dub dub \u{1F603}",-1),r=[n];function c(d,_,i,l,p,u){return a(),t("div",null,r)}var m=e(s,[["render",c]]);export{b as __pageData,m as default};
