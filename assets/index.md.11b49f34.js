@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.7c054094.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',r={},n=o("p",null,"Hey Greedy, don't fret",-1),s=[n];function c(d,_,i,p,l,f){return a(),t("div",null,s)}var h=e(r,[["render",c]]);export{u as __pageData,h as default};
