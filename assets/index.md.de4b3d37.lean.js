@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as r}from"./app.7c054094.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',a={},n=r("p",null,"Your torment forged me.I owe my victory to you.",-1),s=[n];function c(_,d,i,p,l,m){return o(),t("div",null,s)}var h=e(a,[["render",c]]);export{u as __pageData,h as default};
