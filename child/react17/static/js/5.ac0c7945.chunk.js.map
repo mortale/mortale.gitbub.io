@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/home/index.tsx"],"names":["Home"],"mappings":"sHAAA,uBAOeA,UAJQ,WACnB,OAAO","file":"static/js/5.ac0c7945.chunk.js","sourcesContent":["import React from 'react'\n// import {Layout} from 'antd'\n\nconst Home: React.FC = () => {\n    return <>11</>\n}\n\nexport default Home"],"sourceRoot":""}
