@@ -1,1 +1,0 @@
-"use strict";(this["webpackJsonpchild-react17"]=this["webpackJsonpchild-react17"]||[]).push([[773],{88773:function(e,s,t){t.r(s);t(21914);var c=t(56552);s.default=function(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)("div",{style:{background:"red"}}),(0,c.jsx)("div",{style:{background:"blue"}})]})}}}]);

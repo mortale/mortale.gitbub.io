@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchild_react17=self.webpackChunkchild_react17||[]).push([[773],{88773:function(e,c,r){r.r(c);r(21914);var n=r(56552);c.default=function(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)("div",{style:{background:"red"}}),(0,n.jsx)("div",{style:{background:"blue"}})]})}}}]);

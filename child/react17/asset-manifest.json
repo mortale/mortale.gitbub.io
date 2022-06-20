@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/child/react17/static/css/main.d4fc710b.css",
-    "main.js": "/child/react17/static/js/main.5e7636fb.js",
-    "runtime-main.js": "/child/react17/static/js/runtime-main.141c218b.js",
-    "static/js/773.eac4cf2e.chunk.js": "/child/react17/static/js/773.eac4cf2e.chunk.js",
-    "static/css/584.a20972e3.chunk.css": "/child/react17/static/css/584.a20972e3.chunk.css",
-    "static/js/584.9f772afc.chunk.js": "/child/react17/static/js/584.9f772afc.chunk.js",
-    "rc-dll.js": "/child/react17/static/js/rc-dll.372f9ffe.chunk.js",
-    "antDesign-dll.js": "/child/react17/static/js/antDesign-dll.c14d849d.chunk.js",
-    "antd-dll.css": "/child/react17/static/css/antd-dll.dec45438.chunk.css",
-    "antd-dll.js": "/child/react17/static/js/antd-dll.593d3387.chunk.js",
-    "formily-dll.js": "/child/react17/static/js/formily-dll.a5e7240e.chunk.js",
-    "custom-formily-dll.js": "/child/react17/static/js/custom-formily-dll.376ef65f.chunk.js",
-    "vendors-dll.js": "/child/react17/static/js/vendors-dll.4641b837.js",
-    "static/css/554.c0b0ba9d.css": "/child/react17/static/css/554.c0b0ba9d.css",
+    "main.css": "/child/react17/static/css/main.a0033e35.css",
+    "main.js": "/child/react17/static/js/main.3bb3b492.js",
+    "runtime-main.js": "/child/react17/static/js/runtime-main.544871a5.js",
+    "static/js/773.9fffb4a1.chunk.js": "/child/react17/static/js/773.9fffb4a1.chunk.js",
+    "static/css/519.285548a4.chunk.css": "/child/react17/static/css/519.285548a4.chunk.css",
+    "static/js/519.cf3e37f7.chunk.js": "/child/react17/static/js/519.cf3e37f7.chunk.js",
+    "rc-dll.js": "/child/react17/static/js/rc-dll.801157b8.chunk.js",
+    "antDesign-dll.js": "/child/react17/static/js/antDesign-dll.441746fc.chunk.js",
+    "vendors-dll.js": "/child/react17/static/js/vendors-dll.15868f88.js",
     "index.html": "/child/react17/index.html",
     "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "/child/react17/static/media/.1feff74f."
   },
   "entrypoints": [
-    "static/js/runtime-main.141c218b.js",
-    "static/js/vendors-dll.4641b837.js",
-    "static/css/554.c0b0ba9d.css",
-    "static/css/main.d4fc710b.css",
-    "static/js/main.5e7636fb.js"
+    "static/js/runtime-main.544871a5.js",
+    "static/js/vendors-dll.15868f88.js",
+    "static/css/main.a0033e35.css",
+    "static/js/main.3bb3b492.js"
   ]
 }
