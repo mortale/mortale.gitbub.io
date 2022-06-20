@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/child/react17/static/css/main.a0033e35.css",
-    "main.js": "/child/react17/static/js/main.3bb3b492.js",
-    "runtime-main.js": "/child/react17/static/js/runtime-main.544871a5.js",
-    "static/js/773.9fffb4a1.chunk.js": "/child/react17/static/js/773.9fffb4a1.chunk.js",
-    "static/css/519.285548a4.chunk.css": "/child/react17/static/css/519.285548a4.chunk.css",
-    "static/js/519.cf3e37f7.chunk.js": "/child/react17/static/js/519.cf3e37f7.chunk.js",
-    "rc-dll.js": "/child/react17/static/js/rc-dll.801157b8.chunk.js",
-    "antDesign-dll.js": "/child/react17/static/js/antDesign-dll.441746fc.chunk.js",
-    "vendors-dll.js": "/child/react17/static/js/vendors-dll.15868f88.js",
+    "main.js": "/child/react17/static/js/main.7f3b794b.js",
+    "runtime-main.js": "/child/react17/static/js/runtime-main.e26de6a7.js",
+    "static/js/773.b7a10324.chunk.js": "/child/react17/static/js/773.b7a10324.chunk.js",
+    "static/css/681.285548a4.chunk.css": "/child/react17/static/css/681.285548a4.chunk.css",
+    "static/js/681.d3eaecfd.chunk.js": "/child/react17/static/js/681.d3eaecfd.chunk.js",
+    "rc-dll.js": "/child/react17/static/js/rc-dll.4dd627b3.chunk.js",
+    "antDesign-dll.js": "/child/react17/static/js/antDesign-dll.ccfe9b5f.chunk.js",
+    "vendors-dll.js": "/child/react17/static/js/vendors-dll.f7688e5a.chunk.js",
     "index.html": "/child/react17/index.html",
     "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "/child/react17/static/media/.1feff74f."
   },
   "entrypoints": [
-    "static/js/runtime-main.544871a5.js",
-    "static/js/vendors-dll.15868f88.js",
+    "static/js/runtime-main.e26de6a7.js",
     "static/css/main.a0033e35.css",
-    "static/js/main.3bb3b492.js"
+    "static/js/main.7f3b794b.js"
   ]
 }

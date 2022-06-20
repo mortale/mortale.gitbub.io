@@ -1,0 +1,1 @@
+"use strict";(window["webpackJsonp_child-react17"]=window["webpackJsonp_child-react17"]||[]).push([[773],{88773:function(e,n,c){c.r(n);c(21914);var r=c(56552);n.default=function(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("div",{style:{background:"red"}}),(0,r.jsx)("div",{style:{background:"blue"}})]})}}}]);
